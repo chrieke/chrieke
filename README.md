@@ -1,6 +1,6 @@
 Hi there 👋, I'm Christoph, a geospatial engineer and data scientist. I'm interested in all things 🗺️ Geospatial, 🧑‍🔬 Data Science, ⚙️ Machine Learning and 🐍 Python.
 
-[Website](https://chrieke.com/) | [Email](christoph.k.rieke@gmail.com) | [LinkedIn](https://www.linkedin.com/in/christophrieke/) | [Twitter](https://twitter.com/chrieke)
+<a href="https://chrieke.com/" target="_blank">Homepage</a> | <a href="https://www.linkedin.com/in/christophrieke/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/chrieke" target="_blank">Twitter</a>
 
 <br>
 If you want to support my work you can buy me coffee:
